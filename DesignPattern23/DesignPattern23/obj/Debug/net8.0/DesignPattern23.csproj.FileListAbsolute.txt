@@ -12,3 +12,4 @@ E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\refin
 E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\DesignPattern23.pdb
 E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\DesignPattern23.genruntimeconfig.cache
 E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\ref\DesignPattern23.dll
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\DesignPattern23.sourcelink.json
