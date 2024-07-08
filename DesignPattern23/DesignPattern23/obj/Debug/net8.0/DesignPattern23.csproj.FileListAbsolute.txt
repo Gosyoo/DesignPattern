@@ -1,0 +1,14 @@
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\bin\Debug\net8.0\DesignPattern23.exe
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\bin\Debug\net8.0\DesignPattern23.deps.json
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\bin\Debug\net8.0\DesignPattern23.runtimeconfig.json
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\bin\Debug\net8.0\DesignPattern23.dll
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\bin\Debug\net8.0\DesignPattern23.pdb
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\DesignPattern23.GeneratedMSBuildEditorConfig.editorconfig
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\DesignPattern23.AssemblyInfoInputs.cache
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\DesignPattern23.AssemblyInfo.cs
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\DesignPattern23.csproj.CoreCompileInputs.cache
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\DesignPattern23.dll
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\refint\DesignPattern23.dll
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\DesignPattern23.pdb
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\DesignPattern23.genruntimeconfig.cache
+E:\LayaTest\DesignPattern\DesignPattern23\DesignPattern23\obj\Debug\net8.0\ref\DesignPattern23.dll
