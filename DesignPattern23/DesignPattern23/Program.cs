@@ -10,6 +10,7 @@ using DesignPattern23.工厂模式;
 using DesignPattern23.建造者模式;
 using DesignPattern23.抽象工厂模式;
 using DesignPattern23.桥接模式;
+using DesignPattern23.模板模式;
 using DesignPattern23.状态模式;
 using DesignPattern23.空对象模式;
 using DesignPattern23.策略模式;
@@ -17,6 +18,7 @@ using DesignPattern23.组合模式;
 using DesignPattern23.装饰器模式;
 using DesignPattern23.观察者模式;
 using DesignPattern23.解释器模式;
+using DesignPattern23.访问者模式;
 using DesignPattern23.责任链模式;
 using DesignPattern23.过滤器模式;
 using DesignPattern23.迭代器模式;
@@ -66,4 +68,8 @@ using DesignPattern23.适配器模式;
 
 //Test21.Test();
 
-Test22.Test();
+//Test22.Test();
+
+//Test23.Test();
+
+Test24.Test();
